@@ -1,0 +1,9 @@
+*.pt
+*.safetensors
+wandb/
+**/__pycache__/
+*.zip
+logs/
+models/
+submission/
+code/submission_BERT_V4/
